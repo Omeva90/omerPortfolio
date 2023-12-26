@@ -8,6 +8,9 @@ html {
 section {
     background-color: rgb(17 24 39);
 }
+.omerH12{
+    font-size: 5em;
+}
 .imgHeight{
     height: 100%;
 }
@@ -102,13 +105,15 @@ section {
         width: 20rem;
 
     }
-
+    
     .customGrid {
         display: grid;
 
 
     }
-
+.omerWidth2{
+    width: 95%;
+}
     .omerH1 {
         font-size: 3em;
 
@@ -121,5 +126,8 @@ section {
     }
     .paddingT{
         padding-top: 5vh;
+      }
+      .omerH12{
+        font-size: 4em;
       }
 }
