@@ -41,6 +41,7 @@ section {
 
 .submitB {
     width: 100%;
+    z-index: 9999;
 }
 
 .customGrid {
